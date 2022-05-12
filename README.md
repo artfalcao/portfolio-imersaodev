@@ -1,3 +1,3 @@
 # portfolio-imersaodev
 
-Link para site hospedado na Vercel: certificard-bay.vercel.app
+Portfólio da imersaodev da Alura hospedado na Vercel: certificard-bay.vercel.app
